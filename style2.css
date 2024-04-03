@@ -1,0 +1,131 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins';
+}
+.container-1{
+    width: 100%;
+    height: 100vh;
+    background-image: url("Images/img.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.form{
+    width: 450px;
+    height: 600px;
+    background-image: url("Images/img.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: none;
+    padding: 50px;
+    margin-left: 400px;
+    border-radius: 20px;
+}
+.heading{
+    text-align: center;
+    color: white;
+    
+}
+#inp1{
+    width: 350px;
+    height: 40px;
+    border-radius: 15px;
+    margin-top: 10px;
+    padding: 20px;
+    color: black;
+    
+
+}
+#inp2{
+    width: 350px;
+    height: 40px;
+    border-radius: 15px;
+    margin-top: 10px;
+    padding: 20px;
+    color: black;
+}
+#inp3{
+    width: 350px;
+    height: 40px;
+    border-radius: 15px;
+    margin-top: 10px;
+    padding: 20px;
+    color: black;
+}
+#inp4{
+    width: 350px;
+    height: 40px;
+    border-radius: 15px;
+    margin-top: 10px;
+    padding: 20px;
+    color: black;
+
+}
+
+#btn{
+    width: 350px;
+    height: 40px;
+    border-radius: 15px;
+    margin-top: 10px;
+    background-color: blue;
+    border: none;
+    color: white;
+}
+.sp{
+    font-size: 15px;
+    margin-left: 140px;
+    color: white;
+    cursor: pointer;
+}
+
+#fa1{
+    color: white;
+    font-size: 25px;
+    margin-right: 20px;
+   
+
+}
+#fa2{
+    color: white;
+    font-size: 25px;
+ 
+}
+#fa3{
+    color: white;
+    font-size: 25px;
+    margin-left: 20px;
+}
+.icon{
+    text-align: center;
+    padding: 25px;
+    cursor: pointer;
+}
+#fa1:hover{
+    color: blue;
+}
+#fa2:hover{
+    color: red;
+}
+#fa3:hover{
+    color: blue;
+}
+/*.us{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 60px;
+    height: 100%;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.6em;
+    margin-left: 740px;
+    margin-top: -20px;
+    
+
+}*/
+
